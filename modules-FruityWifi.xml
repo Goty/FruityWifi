@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <FruityWifi>
+<module>
+        <name>reaver</name>
+        <version>0.1</version>
+        <author>goty</author>
+        <description>reaver interface</description>
+        <url>module_reaver</url>
+        <required>2.0</required>
+    </module>
     <module>
         <name>nmap</name>
         <version>1.3</version>
